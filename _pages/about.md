@@ -32,17 +32,17 @@ My research interests encompass parallel computing, compilers, deep learning, an
 # 📝 Publications 
 - Sheng Tian, Xintan Zeng, Yifei Hu, Baokun Wang, Yongchao Liu, **Yue Jin**, Changhua Meng, Chuntao Hong, Tianyi Zhang, Weiqiang Wang: "GraphRPM: risk pattern mining on industrial large attributed graphs." European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024 (ECML PKDD 2024), 2024.
 
-- **Yue Jin**, Sheng Tian, Yongchao Liu, Chuntao Hong: "GraphGen: a distributed graph sample generation framework on industry-scale graphs". The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track).
+- **<u>Yue Jin<\u>**, Sheng Tian, Yongchao Liu, Chuntao Hong: "GraphGen: a distributed graph sample generation framework on industry-scale graphs". The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track).
 
-- **Yue Jin**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen: "G-Sparse: compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs". 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149.
+- **<u>Yue Jin<\u>**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen: "G-Sparse: compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs". 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149.
 
-- **Yue Jin**, Yongchao Liu: "GPC: compiler-based optimization for sparse computations in graph neural networks". The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track).
+- **<u>Yue Jin<\u>**, Yongchao Liu: "GPC: compiler-based optimization for sparse computations in graph neural networks". The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track).
 
-- Chengying Huan, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, **Yue Jin**, Baptiste Lepers, Hang Liu, Yanjun Wu: "TEA+: a novel temporal graph random walk engine with hybrid storage architecture." ACM Transactions on Architecture and Code Optimization (ACM TACO), 2024.
+- Chengying Huan, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, **<u>Yue Jin<\u>**, Baptiste Lepers, Hang Liu, Yanjun Wu: "TEA+: a novel temporal graph random walk engine with hybrid storage architecture." ACM Transactions on Architecture and Code Optimization (ACM TACO), 2024.
 
-- **Yue Jin**, Yongchao Liu, Yong Chen, Rui Zhao, Yao Zhang: "Model-based cost estimation and its application in deep learning operation optimizations". GPU Technology Conference 2020 (GTC 2020), 2020, China (talk given by Yue Jin).
+- **<u>Yue Jin<\u>**, Yongchao Liu, Yong Chen, Rui Zhao, Yao Zhang: "Model-based cost estimation and its application in deep learning operation optimizations". GPU Technology Conference 2020 (GTC 2020), 2020, China (talk given by Yue Jin).
 
-- Yongchao Liu, **Yue Jin**, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang: "Woodpecker-DL: an efficient compiler for accelerating deep learning on heterogeneous computing architectures". GPU Technology Conference 2019 (GTC 2019), 2019, China (talk given by Yong Chen).
+- Yongchao Liu, **<u>Yue Jin<\u>**, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang: "Woodpecker-DL: an efficient compiler for accelerating deep learning on heterogeneous computing architectures". GPU Technology Conference 2019 (GTC 2019), 2019, China (talk given by Yong Chen).
 
 
 # 🎖 Honors and Awards
