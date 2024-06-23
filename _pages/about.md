@@ -27,8 +27,7 @@ My research interests encompass parallel computing, compilers, deep learning, an
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 Our paper "GraphRPM: Risk Pattern Mining on Industrial Large Attributed Graphs"  has got accepted by ECML PKDD 2024
 
 # 📝 Publications 
 
