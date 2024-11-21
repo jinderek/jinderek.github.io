@@ -201,6 +201,9 @@
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
       {% endif %}
+      {% if author.cv_url %}
+        <a href="{{ author.cv_url }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+      {% endif %}
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
       {% endif %}
@@ -213,9 +216,6 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.cv_url %}
-        <a href="{{ cv_url }}">CV</a>
-      {% endif %}        
     </div>
   </div>
 </div>
