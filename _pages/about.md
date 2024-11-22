@@ -21,7 +21,7 @@ I am currently a senior software engineer at Ant Group in Hangzhou, China, focus
 
 I hold both a bachelor's and a master's degree in Electronic Information Engineering from Zhejiang University.
 
-My research interests encompass parallel computing, compilers, deep learning, and graph learning.
+My research interests encompass parallel computing, machine learning, and compilers.
 
 
 
