@@ -1,59 +1,72 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<h1 align="center">
+AcadHomepage
+</h1>
 
-<span class='anchor' id='about-me'></span>
+<div align="center">
 
-I am currently a senior software engineer at Ant Group in Hangzhou, China, focusing on large-scale graph computing and learning. 
+[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+</div>
 
-I hold both a bachelor's and a master's degree in Electronic Information Engineering from Zhejiang University.
+<p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
-My research interests encompass parallel computing, machine learning, and compilers.
+<p align="center">
+    <br>
+    <img src="docs/screenshot.png" width="100%"/>
+    <br>
+</p>
 
+Some examples:
+- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
+- [Personal Homepage of the author](https://rayeren.github.io/)
 
+## Key Features
+- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
+- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
+- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
+- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
+- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
 
+## Quick Start
 
-# 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our paper "GraphRPM: Risk Pattern Mining on Industrial Large Attributed Graphs"  has got accepted by ECML PKDD 2024
+1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
+1. Configure the google scholar citation crawler:
+    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
+    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
+    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
+1. Modify the configuration of your homepage `_config.yml`:
+    1. `title`: the title of your homepage
+    1. `description`: the description of your homepage
+    1. `repository`: USER_NAME/REPO_NAME  
+    1. `google_analytics_id` (optional): google analytics ID
+    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
+    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
+    1. More configuration details are described in the comments.
+1. Add your homepage content in `_pages/about.md`.
+    1. You can use html+markdown syntax just same as jekyll.
+    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
+        ```html
+        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+        ``` 
+        > Q: How to get the google scholar paper ID?   
+        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+1. Your page will be published at `https://USERNAME.github.io`.
 
-# 📝 Publications 
-- Sheng Tian, Xintan Zeng, Yifei Hu, Baokun Wang, Yongchao Liu, **<u>Yue Jin</u>**, Changhua Meng, Chuntao Hong, Tianyi Zhang, Weiqiang Wang: "GraphRPM: risk pattern mining on industrial large attributed graphs." European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024 (ECML PKDD 2024), 2024.
+## Debug Locally
 
-- **<u>Yue Jin</u>**, Sheng Tian, Yongchao Liu, Chuntao Hong: "GraphGen: a distributed graph sample generation framework on industry-scale graphs". The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track).
+1. Clone your REPO to local using `git clone`.
+1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
+1. Run `bash run_server.sh` to start Jekyll livereload server.
+1. Open http://127.0.0.1:4000 in your browser.
+1. If you change the source code of the website, the livereload server will automatically refresh.
+1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
-- **<u>Yue Jin</u>**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen: "G-Sparse: compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs". 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149.
+# Acknowledges
 
-- **<u>Yue Jin</u>**, Yongchao Liu: "GPC: compiler-based optimization for sparse computations in graph neural networks". The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track).
-
-- Chengying Huan, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, **<u>Yue Jin</u>**, Baptiste Lepers, Hang Liu, Yanjun Wu: "TEA+: a novel temporal graph random walk engine with hybrid storage architecture." ACM Transactions on Architecture and Code Optimization (ACM TACO), 2024.
-
-- **<u>Yue Jin</u>**, Yongchao Liu, Yong Chen, Rui Zhao, Yao Zhang: "Model-based cost estimation and its application in deep learning operation optimizations". GPU Technology Conference 2020 (GTC 2020), 2020, China (talk given by Yue Jin).
-
-- Yongchao Liu, **<u>Yue Jin</u>**, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang: "Woodpecker-DL: an efficient compiler for accelerating deep learning on heterogeneous computing architectures". GPU Technology Conference 2019 (GTC 2019), 2019, China (talk given by Yong Chen).
-
-
-# 🎖 Honors and Awards
-- *2021* FY2021 Excellent Engineer - Most Innovative Spirit Award - Ant Group
-
-# 📖 Educations
-- Sep. 2012 – Mar. 2015 Zhejiang University, Electronic Information Engineering, Master
-- Sep. 2008 – Jun. 2012 Zhejiang University, Electronic Information Engineering, Bachelor
-
-# 💬 Invited Talks
-- *2020*, "Model-based cost estimation and its application in deep learning operation optimizations". GPU Technology Conference 2020 (GTC 2020), 2020, China. \| [\[video\]](https://www.nvidia.cn/on-demand/session/gtccn2020-cns20774/) 
-- *2019*, "Woodpecker-DL: An Efficient Compiler for Accelerating Deep Learning on Heterogeneous Computing
-Architectures". GPU Technology Conference 2019 (GTC 2019), 2019, China. \| [\[slides\]](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9274/presentation.pdf)
-
+- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
