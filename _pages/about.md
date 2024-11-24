@@ -51,7 +51,7 @@ The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track)<
 The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track)<br>
 
 **Woodpecker-DL: Accelerating Deep Neural Networks via Hardware-Aware Multifaceted Optimizations**<br>
-Yongchao Liu*, **<u>Yue Jin</u>**, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
+Yongchao Liu*, **<u>Yue Jin</u>***, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
 arXiv:2008.04567, 2020<br>
 
 **Model-based cost estimation and its application in deep learning operation optimizations**<br>
