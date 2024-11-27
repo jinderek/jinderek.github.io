@@ -16,16 +16,27 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am currently a Senior Software Engineer at Ant Group, specializing in large-scale graph computing and graph learning frameworks.
 
+I hold both a Bachelor's and a Master's degree in Electronic Information Engineering and Electric Engineering from Zhejiang University.
+
+In 2021, I received the FY2021 Excellent Engineer - Most Innovative Spirit Award at Ant Group, in recognition of my contributions to AI infrastructure and high-performance computing.
+
+I have published papers as the first author at PACT and EuroSys, and have delivered talks at conferences such as Stanford DAWN and GTC. I also have strong skills in teamwork, leadership, and communication.
+
+My research interests include Machine Learning Systems, Parallel Computing, High-Performance Computing, and Compiler Optimization.
+
+I am currently particularly interested in AI systems, high-performance computing, and GPUs, and I am eager to collaborate on research in these areas. Please feel free to reach out!
+
+
+
+<!-- 
 I am currently a senior software engineer at Ant Group in Hangzhou, China, focusing on large-scale graph computing and learning. 
 
 I hold both a bachelor's and a master's degree in Electronic Information Engineering from Zhejiang University.
 
 My research interests encompass: Machine Learning Systems, Parallel Computing, High-Performance Computing, and Compiler Optimization.
 
-
-
-<!-- 
 这是一个多行注释的示例。
 它可以跨多行书写。
 Markdown 不会解析这部分内容。
