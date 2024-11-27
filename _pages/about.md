@@ -25,9 +25,14 @@ My research interests encompass: Machine Learning Systems, Parallel Computing, H
 
 
 
-
+<!-- 
+这是一个多行注释的示例。
+它可以跨多行书写。
+Markdown 不会解析这部分内容。
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Our paper "GraphRPM: Risk Pattern Mining on Industrial Large Attributed Graphs"  has got accepted by ECML PKDD 2024
+
+-->
 
 # 📝 Publications 
 **G-Sparse: compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs**<br>
