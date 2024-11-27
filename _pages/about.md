@@ -24,7 +24,7 @@ In 2021, I received the FY2021 Excellent Engineer - Most Innovative Spirit Award
 
 I have published papers as the first author at PACT and EuroSys, and have delivered talks at conferences such as Stanford DAWN and GTC. I also have strong skills in teamwork, leadership, and communication.
 
-My research interests include Machine Learning Systems, Parallel Computing, High-Performance Computing, and Compiler Optimization.
+My research interests include Machine Learning Systems, Parallel Computing, High-Performance Computing, GPUs, and Compiler Optimization.
 
 I am currently particularly interested in AI systems, high-performance computing, and GPUs, and I am eager to collaborate on research in these areas. Please feel free to reach out!
 
