@@ -66,15 +66,6 @@ The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track)<
 Yongchao Liu*, **<u>Yue Jin</u>***, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
 arXiv:2008.04567, 2020<br>
 
-**Model-based cost estimation and its application in deep learning operation optimizations**<br>
-**<u>Yue Jin</u>**, Yongchao Liu, Yong Chen, Rui Zhao, Yao Zhang<br>
-GPU Technology Conference 2020 (GTC 2020), 2020, China (talk given by Yue Jin)<br>
-
-**Woodpecker-DL: an efficient compiler for accelerating deep learning on heterogeneous computing architectures**<br>
-Yongchao Liu, **<u>Yue Jin</u>**, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
-GPU Technology Conference 2019 (GTC 2019), 2019, China (talk given by Yong Chen)<br>
-
-
 # 🎖 Honors and Awards
 - *2021* FY2021 Excellent Engineer - Most Innovative Spirit Award - Ant Group
 
