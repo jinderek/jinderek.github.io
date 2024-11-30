@@ -22,7 +22,7 @@ In 2021, I was lucky to receive the FY2021 Excellent Engineer - Most Innovative 
 
 I’ve published papers in PACT and ACM TACO and given talks at conferences like Stanford DAWN and GTC. I’m also a strong team player with skills in leadership and communication.
 
-My main interests are in Machine Learning Systems, Parallel Computing, GPUs, Graph Learning, and Compiler Optimization. Lately, I’ve been especially interested in AI systems and GPU technologies. I’m always excited to collaborate, so feel free to reach out if you’d like to connect!
+My main interests are in Machine Learning Systems, Parallel Computing, GPU Computing, Graph Learning, and Compiler Optimization. Lately, I’ve been especially interested in AI systems and GPU technologies. I’m always excited to collaborate, so feel free to reach out if you’d like to connect!
 
 
 
