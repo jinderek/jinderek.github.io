@@ -16,17 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Senior Software Engineer at Ant Group, specializing in large-scale graph computing and graph learning frameworks.
+I’m a Senior Software Engineer at Ant Group, where I focus on large-scale graph computing and graph learning frameworks. I have both a Master’s and Bachelor’s degree in Electrical Engineering and Electronic Information Engineering from Zhejiang University.
 
-I hold both a Bachelor's and a Master's degree in Electronic Information Engineering and Electric Engineering from Zhejiang University.
+In 2021, I was lucky to receive the FY2021 Excellent Engineer - Most Innovative Spirit Award at Ant Group for my work on AI infrastructure and high-performance computing.
 
-In 2021, I received the FY2021 Excellent Engineer - Most Innovative Spirit Award at Ant Group, in recognition of my contributions to AI infrastructure and high-performance computing.
+I’ve published papers in PACT and ACM TACO and given talks at conferences like Stanford DAWN and GTC. I’m also a strong team player with skills in leadership and communication.
 
-I have published papers as the first author at PACT and EuroSys, and have delivered talks at conferences such as Stanford DAWN and GTC. I also have strong skills in teamwork, leadership, and communication.
-
-My research interests include Machine Learning Systems, Parallel Computing, High-Performance Computing, GPUs, and Compiler Optimization.
-
-I am currently particularly interested in AI systems, high-performance computing, and GPUs, and I am eager to collaborate on research in these areas. Please feel free to reach out!
+My main interests are in Machine Learning Systems, Parallel Computing, GPUs, Graph Learning, and Compiler Optimization. Lately, I’ve been especially interested in AI systems and GPU technologies. I’m always excited to collaborate, so feel free to reach out if you’d like to connect!
 
 
 
