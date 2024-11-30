@@ -42,27 +42,27 @@ Markdown 不会解析这部分内容。
 -->
 
 # 📝 Publications 
-**G-Sparse: compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs**<br>
+**[G-Sparse](https://jinderek.github.io/g-sparse.pdf): compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs**<br>
 **<u>Yue Jin</u>**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen<br>
 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149<br>
 
-**TEA+: a novel temporal graph random walk engine with hybrid storage architecture**<br>
+**[TEA+](https://jinderek.github.io/tea+.pdf): a novel temporal graph random walk engine with hybrid storage architecture**<br>
 Chengying Huan, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, **<u>Yue Jin</u>**, Baptiste Lepers, Hang Liu, Yanjun Wu<br>
 ACM Transactions on Architecture and Code Optimization (ACM TACO), 2024<br>
 
-**GraphRPM: risk pattern mining on industrial large attributed graphs**<br>
+**[GraphRPM](https://jinderek.github.io/GraphRPM.pdf): risk pattern mining on industrial large attributed graphs**<br>
 Sheng Tian, Xintan Zeng, Yifei Hu, Baokun Wang, Yongchao Liu, **<u>Yue Jin</u>**, Changhua Meng, Chuntao Hong, Tianyi Zhang, Weiqiang Wang<br>
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024 (ECML PKDD 2024), 2024<br>
 
-**GPC: compiler-based optimization for sparse computations in graph neural networks**<br>
+**[GPC](https://jinderek.github.io/gpc.pdf): compiler-based optimization for sparse computations in graph neural networks**<br>
 **<u>Yue Jin</u>**, Yongchao Liu<br>
 The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track)<br>
 
-**GraphGen: a distributed graph sample generation framework on industry-scale graphs**<br>
+**[GraphGen](https://jinderek.github.io/GraphGen.pdf): a distributed graph sample generation framework on industry-scale graphs**<br>
 **<u>Yue Jin</u>**, Sheng Tian, Yongchao Liu, Chuntao Hong<br>
 The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track)<br>
 
-**Woodpecker-DL: Accelerating Deep Neural Networks via Hardware-Aware Multifaceted Optimizations**<br>
+**[Woodpecker-DL](https://jinderek.github.io/woodpecker-dl.pdf): Accelerating Deep Neural Networks via Hardware-Aware Multifaceted Optimizations**<br>
 Yongchao Liu*, **<u>Yue Jin</u>***, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
 arXiv:2008.04567, 2020<br>
 
