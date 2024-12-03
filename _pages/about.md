@@ -47,7 +47,7 @@ Markdown 不会解析这部分内容。
 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149<br>
 
 **[Woodpecker-DL](https://jinderek.github.io/woodpecker-dl.pdf): Accelerating Deep Neural Networks via Hardware-Aware Multifaceted Optimizations**<br>
-Yongchao Liu*, **<u>Yue Jin</u>***, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
+Yongchao Liu\*, **<u>Yue Jin</u>**\*, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
 arXiv:2008.04567, 2020<br>
 
 **[TEA+](https://jinderek.github.io/tea+.pdf): a novel temporal graph random walk engine with hybrid storage architecture**<br>
