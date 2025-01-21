@@ -70,8 +70,8 @@ The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track)<
 - *2021* FY2021 Excellent Engineer - Most Innovative Spirit Award - Ant Group
 
 # 📖 Educations
-- Sep. 2012 – Mar. 2015 Zhejiang University, Electronic Information Engineering, Master
-- Sep. 2008 – Jun. 2012 Zhejiang University, Electronic Information Engineering, Bachelor
+- Sep. 2012 – Mar. 2015 Zhejiang University, Electrical Engineering, Master
+- Sep. 2008 – Jun. 2012 Zhejiang University, Electronic & Information Engineering, Bachelor
 
 # 💬 Invited Talks
 - *2023*, "G-Sparse: Compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs". PACT Conference 2023, Vienna, Austria.
