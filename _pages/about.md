@@ -16,15 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I’m a Senior Software Engineer at Ant Group, where I focus on large-scale graph computing and graph learning frameworks. I have both a Master’s and Bachelor’s degree in Electrical Engineering and Electronic Information Engineering from Zhejiang University.
+I’m a Senior Software Engineer at Ant Group, where I focus on large-scale graph computing and graph learning frameworks. I hold a Master’s and Bachelor’s degree in Electrical Engineering and Electronic Information Engineering from Zhejiang University.
 
-In 2021, I was lucky to receive the FY2021 Excellent Engineer - Most Innovative Spirit Award at Ant Group for my work on AI infrastructure and high-performance computing.
+In 2021, I received the FY2021 Excellent Engineer - Most Innovative Spirit Award at Ant Group for my work on AI infrastructure and high-performance computing. I’ve published papers in PACT and ACM TACO, and given talks at conferences like Stanford DAWN and GTC. I’m a strong team player with leadership and communication skills.
 
-I’ve published papers in PACT and ACM TACO and given talks at conferences like Stanford DAWN and GTC. I’m also a strong team player with skills in leadership and communication.
-
-My main interests are in Machine Learning Systems, Parallel Computing, GPU Computing, Graph Learning, and Compiler Optimization. Lately, I’ve been especially interested in AI systems and GPU technologies. I’m always excited to collaborate, so feel free to reach out if you’d like to connect!
-
-
+My main interests include Machine Learning Systems, Parallel Computing, GPU Computing, Graph Learning, and Compiler Optimization. I’m particularly focused on AI systems and GPU technologies and always excited to collaborate—feel free to reach out if you'd like to connect!
 
 <!-- 
 I am currently a senior software engineer at Ant Group in Hangzhou, China, focusing on large-scale graph computing and learning. 
