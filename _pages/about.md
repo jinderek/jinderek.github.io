@@ -20,14 +20,12 @@ I’m a Senior Software Engineer at Ant Group, where I focus on large-scale grap
 
 In 2021, I received the FY2021 Excellent Engineer - Most Innovative Spirit Award at Ant Group for my work on AI infrastructure and high-performance computing. I’ve published papers in PACT and ACM TACO, and given talks at conferences like Stanford DAWN and GTC. I’m a strong team player with leadership and communication skills.
 
-My main interests include Machine Learning Systems, Parallel Computing, GPU Computing, Graph Learning, and Compiler Optimization. I’m particularly focused on AI systems and GPU technologies and always excited to collaborate—feel free to reach out if you'd like to connect!
+My main interests include Graph Computing, Graph Learning, Compiler, DSL, Sparse Computing.
 
 <!-- 
 I am currently a senior software engineer at Ant Group in Hangzhou, China, focusing on large-scale graph computing and learning. 
 
 I hold both a bachelor's and a master's degree in Electronic Information Engineering from Zhejiang University.
-
-My research interests encompass: Machine Learning Systems, Parallel Computing, High-Performance Computing, and Compiler Optimization.
 
 这是一个多行注释的示例。
 它可以跨多行书写。
