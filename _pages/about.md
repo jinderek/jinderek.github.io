@@ -42,10 +42,6 @@ Markdown 不会解析这部分内容。
 **<u>Yue Jin</u>**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen<br>
 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149<br>
 
-**[Woodpecker-DL](https://jinderek.github.io/woodpecker-dl.pdf): Accelerating Deep Neural Networks via Hardware-Aware Multifaceted Optimizations**<br>
-Yongchao Liu\*, **<u>Yue Jin</u>**\*, Yong Chen, Teng Teng, Hang Ou, Rui Zhao, Yao Zhang<br>
-arXiv:2008.04567, 2020<br>
-
 **[TEA+](https://jinderek.github.io/tea+.pdf): a novel temporal graph random walk engine with hybrid storage architecture**<br>
 Chengying Huan, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, **<u>Yue Jin</u>**, Baptiste Lepers, Hang Liu, Yanjun Wu<br>
 ACM Transactions on Architecture and Code Optimization (ACM TACO), 2024<br>
