@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I’m a Senior Software Engineer at Ant Group, where I focus on large-scale graph computing and graph learning frameworks. I hold a Master’s and Bachelor’s degree in Electrical Engineering and Electronic Information Engineering from Zhejiang University.
 
-In 2021, I received the FY2021 Excellent Engineer - Most Innovative Spirit Award at Ant Group for my work on AI infrastructure and high-performance computing. I’ve published papers in PACT and ACM TACO, and given talks at conferences like Stanford DAWN and GTC. I’m a strong team player with leadership and communication skills.
+I’ve published papers in PACT and ACM TACO, and given talks at conferences like Stanford DAWN and GTC. I’m a strong team player with leadership and communication skills.
 
 My main interests include Graph Computing, Graph Learning, Compiler, DSL, Sparse Computing.
 
