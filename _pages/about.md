@@ -38,10 +38,6 @@ ACM Transactions on Architecture and Code Optimization (ACM TACO), 2024<br>
 Sheng Tian, Xintan Zeng, Yifei Hu, Baokun Wang, Yongchao Liu, **<u>Yue Jin</u>**, Changhua Meng, Chuntao Hong, Tianyi Zhang, Weiqiang Wang<br>
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024 (ECML PKDD 2024), 2024<br>
 
-**[GPC](https://jinderek.github.io/gpc.pdf): compiler-based optimization for sparse computations in graph neural networks**<br>
-**<u>Yue Jin</u>**, Yongchao Liu<br>
-The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track)<br>
-
 **[GraphGen](https://jinderek.github.io/GraphGen.pdf): a distributed graph sample generation framework on industry-scale graphs**<br>
 **<u>Yue Jin</u>**, Sheng Tian, Yongchao Liu, Chuntao Hong<br>
 The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track)<br>
@@ -49,6 +45,10 @@ The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track)<
 **[G-Sparse](https://jinderek.github.io/g-sparse.pdf): compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs**<br>
 **<u>Yue Jin</u>**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen<br>
 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149<br>
+
+**[GPC](https://jinderek.github.io/gpc.pdf): compiler-based optimization for sparse computations in graph neural networks**<br>
+**<u>Yue Jin</u>**, Yongchao Liu<br>
+The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track)<br>
 
 # 🎖 Honors and Awards
 - *2021* FY2021 Excellent Engineer - Most Innovative Spirit Award - Ant Group
