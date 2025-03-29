@@ -21,9 +21,6 @@ I’m a Senior Software Engineer at Ant Group, where I focus on large-scale grap
 My main interests include Graph Computing, Graph Learning, Compiler, DSL, Sparse Computing.
 
 <!-- 
-I am currently a senior software engineer at Ant Group in Hangzhou, China, focusing on large-scale graph computing and learning. 
-
-
 这是一个多行注释的示例。
 它可以跨多行书写。
 Markdown 不会解析这部分内容。
@@ -33,10 +30,6 @@ Markdown 不会解析这部分内容。
 -->
 
 # 📝 Publications 
-**[G-Sparse](https://jinderek.github.io/g-sparse.pdf): compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs**<br>
-**<u>Yue Jin</u>**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen<br>
-32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149<br>
-
 **[TEA+](https://jinderek.github.io/tea+.pdf): a novel temporal graph random walk engine with hybrid storage architecture**<br>
 Chengying Huan, Yongchao Liu, Heng Zhang, Shuaiwen Song, Santosh Pandey, Shiyang Chen, Xiangfei Fang, **<u>Yue Jin</u>**, Baptiste Lepers, Hang Liu, Yanjun Wu<br>
 ACM Transactions on Architecture and Code Optimization (ACM TACO), 2024<br>
@@ -52,6 +45,10 @@ The European Conference on Computer Systems (EuroSys 2023), 2023 (poster track)<
 **[GraphGen](https://jinderek.github.io/GraphGen.pdf): a distributed graph sample generation framework on industry-scale graphs**<br>
 **<u>Yue Jin</u>**, Sheng Tian, Yongchao Liu, Chuntao Hong<br>
 The European Conference on Computer Systems (EuroSys 2024), 2024 (poster track)<br>
+
+**[G-Sparse](https://jinderek.github.io/g-sparse.pdf): compiler-driven acceleration for generalized sparse computation for graph neural networks on modern GPUs**<br>
+**<u>Yue Jin</u>**, Chengying Huan, Heng Zhang, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Changhua He, Wenguang Chen<br>
+32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), 2023, pp. 137-149<br>
 
 # 🎖 Honors and Awards
 - *2021* FY2021 Excellent Engineer - Most Innovative Spirit Award - Ant Group
