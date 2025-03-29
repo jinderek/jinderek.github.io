@@ -16,16 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I’m a Senior Software Engineer at Ant Group, where I focus on large-scale graph computing and graph learning frameworks. I hold a Master’s and Bachelor’s degree in Electrical Engineering and Electronic Information Engineering from Zhejiang University.
-
-I’ve published papers in PACT and ACM TACO, and given talks at conferences like Stanford DAWN and GTC. I’m a strong team player with leadership and communication skills.
+I’m a Senior Software Engineer at Ant Group, where I focus on large-scale graph computing and graph learning frameworks.
 
 My main interests include Graph Computing, Graph Learning, Compiler, DSL, Sparse Computing.
 
 <!-- 
 I am currently a senior software engineer at Ant Group in Hangzhou, China, focusing on large-scale graph computing and learning. 
 
-I hold both a bachelor's and a master's degree in Electronic Information Engineering from Zhejiang University.
 
 这是一个多行注释的示例。
 它可以跨多行书写。
